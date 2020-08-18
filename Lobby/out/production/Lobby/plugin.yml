@@ -1,0 +1,9 @@
+name: Lobby
+author: Matzuake
+version: 1.0
+
+main: Matzuake.com.github.main.Lobby
+
+commands:
+  setspawn:
+    description: Command zum Setzen von SpawnPunkten.
